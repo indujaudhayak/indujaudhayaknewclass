@@ -16,7 +16,7 @@ mp.put(4,"selenium");
 mp.put(5,"oracle");
 System.out.println(mp);
 Set<Entry<Integer, String>> x = mp.entrySet();
-
+System.out.println("34567");
 for(Entry<Integer,String>e:x)
 System.out.println(e);	
 	
